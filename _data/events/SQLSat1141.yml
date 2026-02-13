@@ -62,6 +62,12 @@ optInGlobalSponsor: 1
 sponsorscontacturl: https://www.dayofdatabr.org/become-a-sponsor
 
 sponsors:
+  - link: https://www.dbaduck.com
+    type: Gold Sponsor
+    image: /assets/img/logos/DBADuck.png
+  - link: https://www.pcgrecruit.com
+    type: Silver Sponsor
+    image: /assets/img/logos/PCG-Logo-Standard.png
 
 sponsorplan: |
     <style>
