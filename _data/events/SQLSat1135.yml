@@ -60,7 +60,26 @@ precondetail: |
   When not working for the community, he is busy at his day job: freelance database developer/consultant.<br/>
   Hugo has over 25 years of SQL Server experience in various roles. Starting from a strong database design background, he has spent the last ten years specializing in execution plans and query performance tuning.<br/>
   </li>
-  </ul></p>
+  <li><b>Lenore Flower - Power BI Paginated Reporting Crash Course</b><br/>
+  When a report needs to be PDF-ed or printed, Power BI (Paginated) Report Builder is simply the right tool for the job. Yet—as anyone who has used Power BI Report Builder will tell you—creating a paginated report can be deceptively difficult.<br/>
+  This hands-on paginated reporting workshop is designed to take true beginners and seasoned Power BI service users alike from frustrated to empowered. Attendees will first learn key paginated reporting concepts, then watch how those concepts translate into practical application in a demo. Each training segment culminates with attendees directly applying what they’ve learned by building their own reports, step by step.<br/>
+  Throughout the training, attendees will also train their troubleshooting muscles by "Bailing out Benny," a fictional coworker facing a common paginated reporting problem participants will be challenged to solve together.<br/>
+  Finally, we'll go over some of the trickiest (and most common) paginated reporting issues, such as configuring date pickers, creating efficient datasets sourced from a Power BI semantic model, perfecting the print format, and (finally!) getting those pesky table column headers to repeat on each page.<br/>
+  Attendees will leave having successfully created their own paginated reports--and ready to tackle their next paginated report request with confidence!<br/>
+  <br/>
+  <b>Speaker Bio:</b><br/>
+  Lenore Flower (MBA, MCT) is the owner of Data Plumber, LLC, a training-first consulting business that helps SMBs (Small-to-Medium sized Businesses) grow their data people alongside their data ecosystem on the Microsoft stack. <br/>
+  After serving as the BI lead on the client side of a challenging D365 F&O implementation, Lenore transitioned to data & BI consulting work with the explicit goal of becoming the kind of data consultant she had so badly needed herself. She now specializes in collaborating one-on-one with data professionals to both build and learn how to maintain data systems that span D365 F&O, Fabric, Power BI, and Dataverse. <br/>
+  Lenore loves learning and sharing knowledge as part of the broader data community. In addition to being an enthusiastic speaker and attendee at various community events, she co-organizes the Power BI Washington DC User Group (since 2022), and the DUG DC user Group (since 2025), and recently launched "Beautiful Nerds-The Podcast" to help keep the conversation going between community events.<br/>
+  </li>
+  <li><b>Ben Chartoff & Leslie Welch - Don’t Fear the Repo: Version Control and CI/CD in Fabric for Power BI</b><br/>
+  Power BI teams often struggle with version tracking, conflicting or unintended changes, restoring previous versions, and risky deployments. In this full-day workshop, learn Git and CI/CD in Fabric to scale responsibly. We’ll practice branching, commits, PRs, rollbacks, and deployment pipelines in Fabric. You’ll leave understanding guiding principles informed by DevOps as well as practical team approach for commit size, approval processes, naming conventions that work, and managing tech debt.<br/>
+  <br/>
+  <b>Speaker Bio:</b><br/>
+  Ben Chartoff is a Solution Architect in Data Visualization at SHI. Ben has been working in data visualization for the past decade+, most recently with Power BI at SHI and Excella, and before that building for the web at The Urban Institute, The Sunlight Foundation, and The Washington Post, as a Knight-Mozilla fellow. Ben is passionate about data driven decision making, visual design, version control, and collaboration. He lives in Silver Spring, MD, with his wife, two beautiful sons, and dogs.<br/>
+  Leslie Welch is the Principal Architect, Data & AI at SHI with over 18 years of experience in automation, data analysis and visualization, and strengthening organizations’ knowledge of data. Leslie is a Microsoft MVP and has worked end-to-end in the data arena from capture and ETL to database design/engineering to analysis and dashboard design to ML use cases with a focus on improving productivity, performance, and data quality. She has extensive experience in enterprise deployment of Power BI, both as an admin and Power BI architect, and as a trainer and technical community organizer. She is passionate about data governance, truth-telling in data, and creating collaborative environments across data practitioners and the numerous data stakeholders.<br/>
+  Leslie co-organizes Power BI DC and frequently attends and speaks at data community meetups in the DC metro area, including but not limited to Data Viz DC, Data Science DC, Women Who Code DC, Washington DC Power Platform User Group, and Generative AI DC. Leslie was recognized as a 2023 New Power Woman in Tech by DCA Live, and on the RealLIST Engineers 2024 as one of 15 technologists helping the DMV ecosystem grow.<br/>
+  </li></ul></p>
 
 scheduleurl: https://sessionize.com/api/v2/mc0fiyp1/view/Sessions
 scheduletimezone: Eastern Daylight Time UTC -5
