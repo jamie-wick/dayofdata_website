@@ -144,12 +144,12 @@ sponsors:
     image: /assets/img/logos/UNFLogo.jpg
     width: 651
     height: 215
-  - link: https://www.idera.com/
+  - link: https://www.idera.com
     type: Platinum
     image: /assets/img/logos/IDERA938x142.jpg
     width: 938
     height: 142
-  - link: https://www.cozyroc.com/
+  - link: https://www.cozyroc.com
     type: Silver
     image: /assets/img/logos/cozyroc-big.png
     width: 800
@@ -159,10 +159,16 @@ sponsors:
     image: /assets/img/logos/RedGate.png
     width: 800
   - link: https://us.sios.com/
+    type: Gold
     image: /assets/img/logos/sios_Medium.png
     width: 800
   - link: https://tabulareditor.com
+    type: Gold
     image: /assets/img/logos/tabular-editor-logo-rgb-pos.png
+    width: 800
+  - link: https://tintri.com
+    type: Bronze
+    image: /assets/img/logos/tintri_corporate_logo_res.png
     width: 800
     
 sponsorplan: |
